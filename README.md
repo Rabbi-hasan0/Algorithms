@@ -3,11 +3,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Algorithms in Industrial Software Engineering</h1>
+    <h1>Algorithms</h1>
     <ol>
         <li>Sorting Algorithms
             <ul>
-                <li><strong>Quick Sort</li>
+                <li>Quick Sort</li>
                 <li>Merge Sort</li>
                 <li>Heap Sort</li>
                 <li>Bubble Sort</li>
@@ -53,27 +53,13 @@
         <li>String Matching Algorithms
             <ul>
                 <li>Knuth-Morris-Pratt (KMP)</li>
-                <li>Rabin-Karp</li>
-                <li>Boyer-Moore</li>
-            </ul>
-        </li>
-        <li>Optimization Algorithms
-            <ul>
-                <li>Gradient Descent</li>
-                <li>Genetic Algorithm</li>
-                <li>Simulated Annealing</li>
+                <li>String Hashing</li>
             </ul>
         </li>
         <li>Flow Network Algorithms
             <ul>
                 <li>Ford-Fulkerson Algorithm</li>
                 <li>Edmonds-Karp Algorithm</li>
-            </ul>
-        </li>
-        <li>Hashing Algorithms
-            <ul>
-                <li>SHA (Secure Hash Algorithms)</li>
-                <li>MD5</li>
             </ul>
         </li>
     </ol>
