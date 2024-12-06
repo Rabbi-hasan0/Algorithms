@@ -7,7 +7,7 @@
     <ol>
         <li>Sorting Algorithms
             <ul>
-                <li>Quick Sort</li>
+                <li><strong>Quick Sort</li>
                 <li>Merge Sort</li>
                 <li>Heap Sort</li>
                 <li>Bubble Sort</li>
